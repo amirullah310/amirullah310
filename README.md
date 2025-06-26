@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning **Laravel** and **React**
+
 <!--
 **amirullah310/amirullah310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
